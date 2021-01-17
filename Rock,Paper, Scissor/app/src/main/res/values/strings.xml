@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">practice5</string>
+    <string name="btn_txt">Play</string>
+    <string-array name="choice">
+        <item>Stone</item>
+        <item>Paper</item>
+        <item>Scissor</item>
+    </string-array>
+    <string name="play_again">Play again</string>
+</resources>
